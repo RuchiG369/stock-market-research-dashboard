@@ -1,5 +1,34 @@
 # Live Stock Research Dashboard
 
+Live stock research dashboard for Indian equities using technical screening, sector strength, ranking logic, benchmark validation, and analyst-focused decision support.
+
+## Why this project fits a Stock Market Research Analyst role
+
+This project was built to show how I approach stock research, market screening, platform testing, and structured feedback as a daily user of a research tool.
+
+It demonstrates:
+- technical analysis and sector-based stock selection
+- analyst-friendly screening and ranking logic
+- benchmark validation of tool outputs
+- structured product feedback and feature testing
+- practical research workflow thinking for Indian equities
+
+## Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](./dashboard-main.png)
+
+### Sector Leaders
+![Sector Leaders](./dashboard-sector-leaders.png)
+
+## What this project does
+
+This dashboard helps reduce manual stock scanning by:
+- highlighting top-ranked stocks
+- identifying leading sectors
+- surfacing trade-ready candidates
+- showing entry, stop loss, target, risk %, and RS rating
+- helping an analyst move from screening to deeper research faster
 A practical stock market research dashboard for Indian equities that helps identify strong stocks, leading sectors, and trade-ready names using live market data, technical signals, ranking logic, and analyst-focused decision support.
 
 ## Why I Built This
@@ -105,15 +134,7 @@ For a stock research platform, I believe a strong user should be able to:
 
 That mindset is reflected in this project through the dashboard, ranking model, and supporting notes included in this repository.
 
-## Screenshots
 
-Add your dashboard screenshots here
-
-### Main Dashboard
-![Main Dashboard](./screenshots/dashboard-main.png)
-
-### Sector Leaders View
-![Sector Leaders](./screenshots/dashboard-sectors.png)
 
 ## Repository Files
 

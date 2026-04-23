@@ -107,7 +107,7 @@ That mindset is reflected in this project through the dashboard, ranking model, 
 
 ## Screenshots
 
-Add your dashboard screenshots here.
+Add your dashboard screenshots here
 
 ### Main Dashboard
 ![Main Dashboard](./screenshots/dashboard-main.png)
